@@ -1,2 +1,2 @@
-# LLM Service with Langchain
+# LLM based Langchain
 
