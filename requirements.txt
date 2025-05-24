@@ -1,0 +1,15 @@
+# langchain
+#langchain-community
+langchain-community
+openai
+huggingface-hub
+
+streamlit
+
+unstructured
+sentence-transformers
+chromadb
+
+PyPDF2
+
+python-dotenv
